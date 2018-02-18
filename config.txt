@@ -30,6 +30,7 @@
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 2 }, 
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 3 }, 
     { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 4 }, 
+    { "low_power_mode" : true, "no_prefetch" : true, "affine_to_cpu" : 5 }, 
  
 ],
 
@@ -117,8 +118,8 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
-"pool_address": "etn.fairhash.org:3333",
-"wallet_address": "etnkFwiH4zVH7NffDucoPSFwv18ETyX58jXXw2aP7pdxQSLhgD9uCT4KzWrtXiDbahQckVZp1uiimADVrdwjDgKB3gsoPrrFdD",
+"pool_address": "poolmining1.dinastycoin.com:3333",
+"wallet_address": "Yx1RAecaCPBC9prJMRyKWkQ1TPMGSmkE9WyvFQkaxHRge587UmKEj5kLVqQajS94NUBVyxMwroPH1KHbtGvEP4Pa1FVZYFJpJ",
 "pool_password": "",
 /*
  * Network timeouts.
